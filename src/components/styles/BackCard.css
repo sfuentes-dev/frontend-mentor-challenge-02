@@ -1,0 +1,17 @@
+.back-container {
+  text-align: center;
+}
+
+.illustration-container {
+  display: grid;
+  margin: 5px 0 36px;
+  place-content: center;
+}
+
+.rating-summary {
+  background-color: var(--Dark-Blue);
+  border-radius: 50px;
+  color: var(--Orange);
+  display: inline;
+  padding: 8px 18px 6px 18px;
+}
